@@ -1,0 +1,79 @@
+<p>
+    <a href="https://classroom.github.com/a/s-rx3t9_">
+        <img src="https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg" alt="Review Assignment Due Date">
+    </a>
+</p>
+
+<h2>Leader: Karim Abdelnaby Ahmed Mahmoud</h2>
+
+<h3>Members:</h3>
+<ul>
+    <li>Ahmed Osama Ashmawy Mohamed</li>
+    <li>Ziyad Wael Ibrahim Mohamed Ali</li>
+    <li>Ziyad Mohamed Abdulqader Abdulhamid</li>
+    <li>Luay Khaled Abdelmonem Al-Islamboly</li>
+</ul>
+
+<h3>Description</h3>
+
+<p>Chess is played on a board of 64 squares alternate between two colors: light (e.g. white) and dark (e.g. black).</p>
+<p>A player’s army consists of 16 pieces that begin play on the two ranks closest to that player.</p>
+<p>There are six different types of pieces; king, rook, bishop, queen, knight, and pawn. Each has a different appearance and moves.</p>
+
+<ul>
+    <li>Chess is played between two opponents with different colored pieces (usually black and white).</li>
+    <li>White moves first, and players take turns following fixed rules until the end of the game.</li>
+    <li>Legal moves should be highlighted in green, and illegal moves (e.g., blocking own pieces, putting the king in check) should be highlighted in red.</li>
+    <li>Eaten pieces of each player should be displayed on the sidebar.</li>
+    <li>The win condition is to force the opponent's king into checkmate.</li>
+</ul>
+
+<h3>Pieces:</h3>
+
+<ol>
+    <li>
+        <h4>Pawn:</h4>
+        <ul>
+            <li>Moves forward and captures diagonally.</li>
+            <li>On the first move, it can move one or two squares.</li>
+            <li>When reaching the opposite end of the board, it can be promoted to any other piece (except the king).</li>
+        </ul>
+    </li>
+    <li>
+        <h4>Rook (Castle):</h4>
+        <ul>
+            <li>Moves vertically or horizontally to any unobstructed square.</li>
+        </ul>
+    </li>
+    <li>
+        <h4>King:</h4>
+        <ul>
+            <li>Moves one square in any direction.</li>
+            <li>Castling: A special move where the king moves two spaces towards a rook, and the rook moves to the other side of the king under specific conditions.</li>
+        </ul>
+    </li>
+    <li>
+        <h4>Bishop (Elephant):</h4>
+        <ul>
+            <li>Moves diagonally, bypassing other pieces.</li>
+            <li>Can change the diagonal color by moving one square horizontally.</li>
+        </ul>
+    </li>
+    <li>
+        <h4>Queen:</h4>
+        <ul>
+            <li>Combines the powers of the rook and bishop, the most mobile and powerful piece.</
+</ul>
+    </li>
+    <li>
+        <h4>Knight:</h4>
+        <ul>
+            <li>Moves in an L shape: two squares horizontally or vertically, and then three squares in the perpendicular direction.</li>
+        </ul>
+    </li>
+</ol>
+<img src="https://github.com/Ashmawy21/test/blob/86ed2927f9112b14e9feea377da637dd530f740d/ChessBoardGUI(1).png" alt="Chess Board">
+<h3>first</h3>
+<p>We made a UML diagram.</p>
+<img src="https://github.com/Ashmawy21/finalproject_chessgame-team-seven/blob/5d5744e5cdae07f84e4ef354f441a9c035163b35/01_deliverables/Team07_UML_Diagram%20(2).jpg" alt="UML Diagram">
+
